@@ -1,0 +1,50 @@
+.head{
+    text-align: center;
+    color: aliceblue;
+    
+
+}
+header{
+    background-image: url(../images/Banner\ Image.png);
+    
+
+}
+.banner{
+    padding: 30px 30px 30px 50px;
+    align-items: center;
+    margin-right: 70px;
+    margin-left: 40px;
+    height: 250px;
+}
+.offer{
+    text-align: center;
+}
+.off{
+    color: red;
+}
+.happy-new-year{
+    
+    align-items: center;
+    height: 270px;
+    width: 400px;
+}
+.party{
+    background-image: url(../images/Vectorrr.png);
+    height: 320px;
+    width: 800px;
+    margin-right: 100px;
+    margin-left: 30px;
+
+}
+.mid{
+    color: white;
+    padding: 20px;
+}
+button{
+    text-align: right;
+    
+}
+.even{
+    display: flex;
+}
+
