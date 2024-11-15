@@ -40,11 +40,24 @@ header{
     color: white;
     padding: 20px;
 }
-button{
-    text-align: right;
+.ty{
+    text-align: center;
     
 }
+
+.en{
+    color: red;
+}
+.wn{
+    color: black;
+}
 .even{
-    display: flex;
+    text-align: center;
+    background-color: rgb(240, 201, 153);
+    padding: 30px;
+    margin: 30px 30px 30px 50px;
+}
+.button{
+    color: red;
 }
 
